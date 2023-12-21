@@ -1,19 +1,25 @@
-#mdiv{
-	background-color:lightgrey;
-}
+
 
 #heading
 {
 	color: limegreen;
 	font-weight: bolder;
+	font-size: 100px;
 }
 
-#navbar{
-	display: flex;
-	list-style: none;
-	font-family: sans-serif;
+#mdiv{
+	background-image: url("https://c4.wallpaperflare.com/wallpaper/514/517/276/quotes-food-tomato-fruit-wallpaper-preview.jpg");
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+	width: 100wh;
 	
+
 }
-li{
-	margin: 100px;
+
+img:hover{
+	border-radius: 100px;
+	transition-duration:2s;
+
 }
+
