@@ -1,0 +1,19 @@
+#mdiv{
+	background-color:lightgrey;
+}
+
+#heading
+{
+	color: limegreen;
+	font-weight: bolder;
+}
+
+#navbar{
+	display: flex;
+	list-style: none;
+	font-family: sans-serif;
+	
+}
+li{
+	margin: 100px;
+}
